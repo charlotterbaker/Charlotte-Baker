@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Portfolio
 
 ## About Me
-Hi, I'm Charlotte Baker – a computer information systems student with experience in **C++, Dart, Python, Java, JavaScript, Flutter, MySQL, R,**, and more! I'm currently working on **Flutter app development** and exploring **database systems and statistical analysis.**
+Hi, I'm Charlotte Baker – a computer information systems student with experience in **C++, Dart, Python, Java, JavaScript, Flutter, MySQL, R**, and more! I'm currently working on **Flutter app development** and exploring **database systems and statistical analysis.**
 
 - 🎓 **Student in Computer Information Systems / Business Information Management**
 - 🏗 **Projects:** Mobile apps, database design, statistical analysis, algorithms
@@ -26,16 +26,14 @@ Performed statistical inference tests, **ANOVA, t-tests**, and **regression mode
 ---
 
 ## 📚 Tech Stack
-![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
-![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql)
-![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=r)
-![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase)
+- **Languages**: Python, Java, JavaScript, Dart, C++
+- **Frameworks & Tools**: Flutter, Firebase, React, Node.js, SQL, MySQL, R, Flask
+- **Version Control**: Git & GitHub
 
 ---
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/charlotte-baker-764529280)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/charlotterbaker)
 
 🚀 **Check out my repositories and feel free to collaborate!**
