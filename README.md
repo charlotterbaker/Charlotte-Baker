@@ -6,7 +6,7 @@ Hi, I'm Charlotte Baker – a computer information systems student with experien
 - 🎓 **Student in Computer Information Systems / Business Information Management**
 - 🏗 **Projects:** Mobile apps, database design, statistical analysis, algorithms
 - 🔥 **Interests:** Mobile Development, Data Science, Software Engineering
-- 📫 **Contact Me:** [charlottereidebaker1@gmail.com] | [github.com/charlotterbaker]
+- 📫 **Contact Me:** [charlottereidebaker1@gmail.com] | [www.github.com/charlotterbaker]
 
 ---
 
