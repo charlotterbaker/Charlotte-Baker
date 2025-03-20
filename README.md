@@ -15,7 +15,7 @@ Hi, I'm Charlotte Baker – a computer information systems student with experien
 A productivity app built in **Flutter** with **Firebase backend**, supporting tasks, calendar events, and notes. Currently in Beta Release. Demo walk-through available in the repository.
 🔗 [Repo Link](https://github.com/charlotterbaker/clear-task)
 
-### **🌱 Biodiversity in National Parks Research Study**
+### **🌱 Research Study: Biodiversity in National Parks**
 Statistical data analysis, visualizations, and predictive modeling compiled into a study based on raw observation data.
 🔗 [Repo Link](https://github.com/charlotterbaker/BiodiversityInNationalParks)
 
