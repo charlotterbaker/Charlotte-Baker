@@ -12,17 +12,20 @@ Hi, I'm Charlotte Baker – a computer information systems student with experien
 
 ## 📌 Featured Projects
 ### **📱 Flutter Task Planner App**
-A productivity app built in **Flutter** with **Firebase backend**, supporting tasks, calendar events, and notes. Currently in Beta Release. Demo walk-through available in the repository.
+A productivity app built in **Flutter** with **Firebase backend**, supporting tasks, calendar events, and notes. Currently in 1.0 Release. Demo walk-through available soon in the repository.
 🔗 [Repo Link](https://github.com/charlotterbaker/clear-task)
 
 ### **🌱 Research Study: Biodiversity in National Parks**
 Statistical data analysis, visualizations, and predictive modeling compiled into a study based on raw observation data.
 🔗 [Repo Link](https://github.com/charlotterbaker/BiodiversityInNationalParks)
 
+### **📊 Statistics Project: Analyzing the impact of Recovery of Global Cybersecurity Threats**
+Data analysis in R, visualizations, and statistical testing (ANOVA, Multiple linear regression, etc.) reported and interpreted in a research report.
+
 ---
 
 ## 📚 Tech Stack
-- **Languages**: Python, Java, JavaScript, Dart, C++
+- **Languages**: Python, Java, JavaScript, Dart, C++, R
 - **Frameworks & Tools**: Flutter, Firebase, React, Node.js, SQL, MySQL, R, Flask
 - **Version Control**: Git & GitHub
 
